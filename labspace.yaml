@@ -19,4 +19,6 @@ sections:
     title: Examples
   - contentPath: ./.labspace/09-resources.md
     title: Resources
+  - contentPath: ./.labspace/10-integration-with-qwen.md
+    title: "Extra: Vibe coding?"
     
